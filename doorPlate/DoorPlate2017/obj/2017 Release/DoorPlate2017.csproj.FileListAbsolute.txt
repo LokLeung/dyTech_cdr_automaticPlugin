@@ -1,0 +1,24 @@
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\AppUI.xslt
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\UserUI.xslt
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\CorelDrw.addon
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\DoorPlate2017.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\DoorPlate2017.pdb
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\QRCoder.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\ControlUI.g.cs
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017_MarkupCompile.cache
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017_MarkupCompile.lref
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\ControlUI.baml
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.g.resources
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.Form1.resources
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.Properties.Resources.resources
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.csproj.GenerateResource.cache
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.csproj.CoreCompileInputs.cache
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.csproj.CopyComplete
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.pdb
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\obj\2017 Release\DoorPlate2017.csprojAssemblyReference.cache
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\ExcelDataReader.DataSet.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\ExcelDataReader.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\ICSharpCode.SharpZipLib.dll
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\ExcelDataReader.xml
+C:\Users\10347\source\repos\DoorPlate2017\DoorPlate2017\bin\Release\2017\DoorPlate2017\ExcelDataReader.DataSet.xml

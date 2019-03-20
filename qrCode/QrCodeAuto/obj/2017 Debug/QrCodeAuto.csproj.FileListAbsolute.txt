@@ -1,0 +1,19 @@
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\AppUI.xslt
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\UserUI.xslt
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\CorelDrw.addon
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\QrCodeAuto.dll
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\QrCodeAuto.pdb
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.csprojAssemblyReference.cache
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\ControlUI.g.cs
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto_MarkupCompile.cache
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto_MarkupCompile.lref
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\ControlUI.baml
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.g.resources
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.Properties.Resources.resources
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.csproj.GenerateResource.cache
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.csproj.CoreCompileInputs.cache
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.dll
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.pdb
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.MainForm.resources
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\bin\Debug\QRCoder.dll
+C:\Users\10347\source\repos\QrCodeAuto\QrCodeAuto\obj\2017 Debug\QrCodeAuto.csproj.CopyComplete
